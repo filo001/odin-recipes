@@ -1,0 +1,25 @@
+.Food {
+    color: white;
+    background-color: black;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: aqua;
+    font-weight:700;
+    text-align: center;
+}
+
+.method {
+    font-size: 24px;
+}
+
+.items {
+    background-color: lightgreen;
+}
+
